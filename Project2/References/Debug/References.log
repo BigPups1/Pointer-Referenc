@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\student\source\repos\project2\references\source.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  References.vcxproj -> C:\Users\Student\Source\Repos\Project2\Debug\References.exe

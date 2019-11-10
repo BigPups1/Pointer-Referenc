@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\student\source\repos\project2\transferparametrs\main.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\student\source\repos\project2\transferparametrs\main.cpp(15): error C2100: illegal indirection
+c:\users\student\source\repos\project2\transferparametrs\main.cpp(15): error C2088: '<<': illegal for class
